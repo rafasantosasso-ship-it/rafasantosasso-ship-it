@@ -11,4 +11,5 @@ The projects below trace my progress from front-end fundamentals to full-stack a
 **Skills:** JavaScript · TypeScript · React.js · Node.js · Express.js · MongoDB · REST APIs · HTML5 · CSS3 · Git/GitHub
 
 **Portfolio:** https://rafasantosasso-ship-it.github.io/portfolio/
+**Upwork:** https://www.upwork.com/freelancers/~01d82aa9ce4f13f486
 **Email:** rafasantosasso@gmail.com
